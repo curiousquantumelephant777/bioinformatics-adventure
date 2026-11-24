@@ -1,3 +1,6 @@
+pip install py3Dmol
+
+import py3Dmol
 class Bfactorpdbvisual:
   # Set up starting data for visual
   def __init__(self, pdb_id, background_color='#ffffff'):
